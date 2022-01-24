@@ -1,4 +1,4 @@
 {
   "kill_atlas_app": false,
-  "kill_shopsuki_app":false
+  "kill_shopsuki_app":true
 }
